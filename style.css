@@ -1,1 +1,25 @@
+body {
 
+    font-family: Arial, sans-serif;
+
+    max-width: 800px;
+
+    margin: auto;
+
+    padding: 30px;
+
+    background: #f4f4f4;
+
+}
+
+h1 {
+
+    color: #003366;
+
+}
+
+a {
+
+    color: darkgreen;
+
+}
